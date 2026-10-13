@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large intermediate extraction artifacts
+pdf_pages/
+extracted_assets/
+assets_clean/
+catalog_rendered.html
+
+# Intermediate scratch & test screenshots
+scratch_*.png
+site_screenshot_*.png
+ui_*.png
+test_pw.pdf
+
+# Large raw backup PDFs (>40MB)
+REVVRIZZ CAT__8-10-26.pdf
+REVVRIZZ_CATALOG_REDESIGNED.pdf
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,525 @@
+[
+  {
+    "type": "car",
+    "name": "Maruti Suzuki - Baleno",
+    "category_header": "Economic Cars &bull; Self-Drive",
+    "pill": "Petrol",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Manual</th>\n            <th>Automatic</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td class=\"rate\">₹ 1,800/-</td>\n            <td class=\"rate\">₹ 2,000/-</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 2,300/-</td>\n            <td class=\"rate rate-gold\">₹ 2,500/-</td>\n          </tr>",
+    "rates": [
+      "₹ 1,800/-",
+      "₹ 2,000/-",
+      "₹ 2,300/-",
+      "₹ 2,500/-"
+    ],
+    "deposit": "₹ 5,000",
+    "image": "baleno_petrol.png"
+  },
+  {
+    "type": "car",
+    "name": "Maruti Suzuki - Baleno (CNG)",
+    "category_header": "Economic Cars &bull; Self-Drive",
+    "pill": "Petrol + CNG",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Rental Rate</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td>--</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 2,700/-</td>\n          </tr>",
+    "rates": [
+      "₹ 2,700/-"
+    ],
+    "deposit": "₹ 5,000",
+    "image": "baleno_cng.png"
+  },
+  {
+    "type": "car",
+    "name": "Maruti Suzuki - Ertiga (CNG)",
+    "category_header": "Economic Cars &bull; Self-Drive",
+    "pill": "Petrol + CNG &bull; 7 Seater",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Rental Rate</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td class=\"rate\">₹ 2,700/-</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 3,500/-</td>\n          </tr>",
+    "rates": [
+      "₹ 2,700/-",
+      "₹ 3,500/-"
+    ],
+    "deposit": "₹ 5,000",
+    "image": "ertiga_cng.png"
+  },
+  {
+    "type": "car",
+    "name": "Kia Carens (Diesel)",
+    "category_header": "Economic Cars &bull; Self-Drive",
+    "pill": "Diesel &bull; 7 Seater",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Manual</th>\n            <th>Automatic</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td class=\"rate\">₹ 3,000/-</td>\n            <td class=\"rate\">₹ 3,200/-</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 4,000/-</td>\n            <td class=\"rate rate-gold\">₹ 4,200/-</td>\n          </tr>",
+    "rates": [
+      "₹ 3,000/-",
+      "₹ 3,200/-",
+      "₹ 4,000/-",
+      "₹ 4,200/-"
+    ],
+    "deposit": "₹ 7,000",
+    "image": "carens_diesel.png"
+  },
+  {
+    "type": "car",
+    "name": "Toyota Glanza",
+    "category_header": "Economic Cars &bull; Self-Drive",
+    "pill": "Petrol",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Manual</th>\n            <th>Automatic</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td class=\"rate\">₹ 2,000/-</td>\n            <td class=\"rate\">₹ 2,200/-</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 2,500/-</td>\n            <td class=\"rate rate-gold\">₹ 2,700/-</td>\n          </tr>",
+    "rates": [
+      "₹ 2,000/-",
+      "₹ 2,200/-",
+      "₹ 2,500/-",
+      "₹ 2,700/-"
+    ],
+    "deposit": "₹ 5,000",
+    "image": "glanza_petrol.png"
+  },
+  {
+    "type": "car",
+    "name": "Toyota Glanza (CNG)",
+    "category_header": "Economic Cars &bull; Self-Drive",
+    "pill": "Petrol + CNG",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Rental Rate</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td>--</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 2,800/-</td>\n          </tr>",
+    "rates": [
+      "₹ 2,800/-"
+    ],
+    "deposit": "₹ 5,000",
+    "image": "glanza_cng.png"
+  },
+  {
+    "type": "car",
+    "name": "Maruti Suzuki - Brezza",
+    "category_header": "Economic Cars &bull; Self-Drive",
+    "pill": "Petrol &bull; Compact SUV",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Manual</th>\n            <th>Automatic</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td class=\"rate\">₹ 3,000/-</td>\n            <td class=\"rate\">₹ 3,300/-</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 4,000/-</td>\n            <td class=\"rate rate-gold\">₹ 4,300/-</td>\n          </tr>",
+    "rates": [
+      "₹ 3,000/-",
+      "₹ 3,300/-",
+      "₹ 4,000/-",
+      "₹ 4,300/-"
+    ],
+    "deposit": "₹ 7,000",
+    "image": "brezza.png"
+  },
+  {
+    "type": "car",
+    "name": "Toyota Urban Cruiser - Taisor",
+    "category_header": "Economic Cars &bull; Self-Drive",
+    "pill": "Petrol",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Manual</th>\n            <th>Automatic</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td>--</td>\n            <td>--</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 3,200/-</td>\n            <td class=\"rate rate-gold\">₹ 3,500/-</td>\n          </tr>",
+    "rates": [
+      "₹ 3,200/-",
+      "₹ 3,500/-"
+    ],
+    "deposit": "₹ 5,000",
+    "image": "taisor.png"
+  },
+  {
+    "type": "car",
+    "name": "Maruti Suzuki - Fronx",
+    "category_header": "Economic Cars &bull; Self-Drive",
+    "pill": "Petrol",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Manual</th>\n            <th>Automatic</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td class=\"rate\">₹ 2,500/-</td>\n            <td class=\"rate\">₹ 2,800/-</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 3,200/-</td>\n            <td class=\"rate rate-gold\">₹ 3,500/-</td>\n          </tr>",
+    "rates": [
+      "₹ 2,500/-",
+      "₹ 2,800/-",
+      "₹ 3,200/-",
+      "₹ 3,500/-"
+    ],
+    "deposit": "₹ 5,000",
+    "image": "fronx.png"
+  },
+  {
+    "type": "car",
+    "name": "Toyota Rumion (CNG)",
+    "category_header": "Economic Cars &bull; Self-Drive",
+    "pill": "Petrol + CNG &bull; 7 Seater",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Rental Rate</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td>--</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 4,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 4,000/-"
+    ],
+    "deposit": "₹ 5,000",
+    "image": "rumion_cng.png"
+  },
+  {
+    "type": "car",
+    "name": "Maruti Suzuki - Swift",
+    "category_header": "Economic Cars &bull; Self-Drive",
+    "pill": "Petrol",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Manual</th>\n            <th>Automatic</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td class=\"rate\">₹ 2,000/-</td>\n            <td class=\"rate\">₹ 2,300/-</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 2,500/-</td>\n            <td class=\"rate rate-gold\">₹ 2,700/-</td>\n          </tr>",
+    "rates": [
+      "₹ 2,000/-",
+      "₹ 2,300/-",
+      "₹ 2,500/-",
+      "₹ 2,700/-"
+    ],
+    "deposit": "₹ 5,000",
+    "image": "swift.png"
+  },
+  {
+    "type": "car",
+    "name": "Kia Carens Clavis",
+    "category_header": "Economic Cars &bull; Self-Drive",
+    "pill": "Petrol &bull; 7 Seater",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Manual</th>\n            <th>Automatic</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td>--</td>\n            <td>--</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 3,200/-</td>\n            <td class=\"rate rate-gold\">₹ 3,500/-</td>\n          </tr>",
+    "rates": [
+      "₹ 3,200/-",
+      "₹ 3,500/-"
+    ],
+    "deposit": "₹ 5,000",
+    "image": "carens_clavis.png"
+  },
+  {
+    "type": "car",
+    "name": "Hyundai - Creta",
+    "category_header": "SUVs & Off-Roaders &bull; Self-Drive",
+    "pill": "Petrol",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Manual</th>\n            <th>Automatic</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td class=\"rate\">₹ 3,800/-</td>\n            <td class=\"rate\">₹ 4,000/-</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 5,000/-</td>\n            <td class=\"rate rate-gold\">₹ 5,500/-</td>\n          </tr>",
+    "rates": [
+      "₹ 3,800/-",
+      "₹ 4,000/-",
+      "₹ 5,000/-",
+      "₹ 5,500/-"
+    ],
+    "deposit": "₹ 7,000",
+    "image": "creta.png"
+  },
+  {
+    "type": "car",
+    "name": "Mahindra Thar (Black) - RWD & 4x4",
+    "category_header": "SUVs & Off-Roaders &bull; Self-Drive",
+    "pill": "Diesel / Petrol",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Variant</th>\n            <th>Transmission</th>\n            <th>12 Hours</th>\n            <th>24 Hours</th>\n          </tr>\n          <tr>\n            <td>4x2 RWD (Diesel)</td>\n            <td>Manual '25</td>\n            <td class=\"rate\">₹ 3,800/-</td>\n            <td class=\"rate rate-gold\">₹ 5,000/-</td>\n          </tr>\n          <tr>\n            <td>4x4 Hard Top (Petrol)</td>\n            <td>Manual '24</td>\n            <td class=\"rate\">₹ 4,200/-</td>\n            <td class=\"rate rate-gold\">₹ 5,500/-</td>\n          </tr>\n          <tr>\n            <td>4x2 RWD (Diesel)</td>\n            <td>Automatic '25</td>\n            <td class=\"rate\">₹ 4,000/-</td>\n            <td class=\"rate rate-gold\">₹ 5,500/-</td>\n          </tr>\n          <tr>\n            <td>4x4 Hard Top (Petrol)</td>\n            <td>Automatic '25</td>\n            <td class=\"rate\">₹ 4,500/-</td>\n            <td class=\"rate rate-gold\">₹ 6,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 3,800/-",
+      "₹ 5,000/-",
+      "₹ 4,200/-",
+      "₹ 5,500/-",
+      "₹ 4,000/-",
+      "₹ 5,500/-",
+      "₹ 4,500/-",
+      "₹ 6,000/-"
+    ],
+    "deposit": "₹ 10,000",
+    "image": "thar_black.png"
+  },
+  {
+    "type": "car",
+    "name": "Mahindra Thar (White) - RWD & 4x4",
+    "category_header": "SUVs & Off-Roaders &bull; Self-Drive",
+    "pill": "Diesel",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Manual</th>\n            <th>Automatic</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td class=\"rate\">₹ 4,000/-</td>\n            <td class=\"rate\">₹ 4,500/-</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 6,500/-</td>\n            <td class=\"rate rate-gold\">₹ 7,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 4,000/-",
+      "₹ 4,500/-",
+      "₹ 6,500/-",
+      "₹ 7,000/-"
+    ],
+    "deposit": "₹ 10,000",
+    "image": "thar_white.png"
+  },
+  {
+    "type": "car",
+    "name": "Mahindra - Scorpio N",
+    "category_header": "SUVs & Off-Roaders &bull; Self-Drive",
+    "pill": "Diesel / Petrol",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Manual</th>\n            <th>Automatic</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td class=\"rate\">₹ 4,000/-</td>\n            <td class=\"rate\">₹ 4,500/-</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 6,500/-</td>\n            <td class=\"rate rate-gold\">₹ 7,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 4,000/-",
+      "₹ 4,500/-",
+      "₹ 6,500/-",
+      "₹ 7,000/-"
+    ],
+    "deposit": "₹ 10,000",
+    "image": "scorpio_n.png"
+  },
+  {
+    "type": "car",
+    "name": "Hyundai - Venue",
+    "category_header": "SUVs & MPVs &bull; Self-Drive",
+    "pill": "Petrol",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Rental Rate</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td class=\"rate\">₹ 3,000/-</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 4,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 3,000/-",
+      "₹ 4,000/-"
+    ],
+    "deposit": "₹ 5,000",
+    "image": "venue.png"
+  },
+  {
+    "type": "car",
+    "name": "Toyota - Innova Hycross",
+    "category_header": "SUVs & MPVs &bull; Self-Drive",
+    "pill": "Petrol Hybrid &bull; Luxury MPV",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Rental Rate</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td>--</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 7,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 7,000/-"
+    ],
+    "deposit": "₹ 10,000",
+    "image": "innova_hycross.png"
+  },
+  {
+    "type": "car",
+    "name": "Toyota Fortuner - 4x2 & 4x4",
+    "category_header": "SUVs & MPVs &bull; Self-Drive",
+    "pill": "Diesel / Petrol",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Variant</th>\n            <th>Transmission</th>\n            <th>12 Hours</th>\n            <th>24 Hours</th>\n            <th>Deposit</th>\n          </tr>\n          <tr>\n            <td>4x2 Diesel/Petrol</td>\n            <td>Manual '23</td>\n            <td class=\"rate\">₹ 9,000/-</td>\n            <td class=\"rate rate-gold\">₹ 12,000/-</td>\n            <td>₹ 15k</td>\n          </tr>\n          <tr>\n            <td>4x4 Petrol</td>\n            <td>Manual '25</td>\n            <td class=\"rate\">₹ 11,500/-</td>\n            <td class=\"rate rate-gold\">₹ 13,500/-</td>\n            <td>₹ 20k</td>\n          </tr>\n          <tr>\n            <td>4x2 Diesel/Petrol</td>\n            <td>Automatic '24</td>\n            <td class=\"rate\">₹ 10,000/-</td>\n            <td class=\"rate rate-gold\">₹ 12,500/-</td>\n            <td>₹ 15k</td>\n          </tr>\n          <tr>\n            <td>4x4 Diesel</td>\n            <td>Automatic '25</td>\n            <td class=\"rate\">₹ 12,000/-</td>\n            <td class=\"rate rate-gold\">₹ 15,000/-</td>\n            <td>₹ 20k</td>\n          </tr>",
+    "rates": [
+      "₹ 9,000/-",
+      "₹ 12,000/-",
+      "₹ 11,500/-",
+      "₹ 13,500/-",
+      "₹ 10,000/-",
+      "₹ 12,500/-",
+      "₹ 12,000/-",
+      "₹ 15,000/-"
+    ],
+    "deposit": "",
+    "image": "fortuner.png"
+  },
+  {
+    "type": "car",
+    "name": "Mahindra - XUV 700 (AX7L)",
+    "category_header": "SUVs & MPVs &bull; Self-Drive",
+    "pill": "Petrol &bull; Flagship Luxury",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Rental Rate</th>\n          </tr>\n          <tr>\n            <td>12 Hours</td>\n            <td class=\"rate\">₹ 5,500/-</td>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 7,500/-</td>\n          </tr>",
+    "rates": [
+      "₹ 5,500/-",
+      "₹ 7,500/-"
+    ],
+    "deposit": "₹ 10,000",
+    "image": "xuv_700.png"
+  },
+  {
+    "type": "car",
+    "name": "Mercedes-Benz - E220d LWB",
+    "category_header": "Luxury Sedans & Premium SUVs &bull; Self-Drive",
+    "pill": "Automatic &bull; Diesel",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Rental Rate</th>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 25,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 25,000/-"
+    ],
+    "deposit": "₹ 70,000",
+    "image": "mercedes_e220d.png"
+  },
+  {
+    "type": "car",
+    "name": "Mercedes-Benz - C300 Cabriolet",
+    "category_header": "Luxury Sedans & Premium SUVs &bull; Self-Drive",
+    "pill": "Automatic &bull; Convertible",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Rental Rate</th>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 55,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 55,000/-"
+    ],
+    "deposit": "₹ 2,00,000",
+    "image": "mercedes_c300_cabrio.png"
+  },
+  {
+    "type": "car",
+    "name": "BMW - 520d",
+    "category_header": "Luxury Sedans & Premium SUVs &bull; Self-Drive",
+    "pill": "Automatic &bull; Diesel",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Rental Rate</th>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 20,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 20,000/-"
+    ],
+    "deposit": "₹ 70,000",
+    "image": "bmw_520d.png"
+  },
+  {
+    "type": "car",
+    "name": "Audi - A6",
+    "category_header": "Luxury Sedans & Premium SUVs &bull; Self-Drive",
+    "pill": "Automatic &bull; Petrol",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Rental Rate</th>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 20,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 20,000/-"
+    ],
+    "deposit": "₹ 70,000",
+    "image": "audi_a6.png"
+  },
+  {
+    "type": "car",
+    "name": "Audi - Q7 Quattro",
+    "category_header": "Premium SUVs & Luxury Sedans &bull; Self-Drive",
+    "pill": "Automatic &bull; Petrol",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Rental Rate</th>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 35,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 35,000/-"
+    ],
+    "deposit": "₹ 1,00,000",
+    "image": "audi_q7.png"
+  },
+  {
+    "type": "car",
+    "name": "BMW - X1",
+    "category_header": "Premium SUVs & Luxury Sedans &bull; Self-Drive",
+    "pill": "Automatic &bull; Petrol",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Rental Rate</th>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 15,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 15,000/-"
+    ],
+    "deposit": "₹ 50,000",
+    "image": "bmw_x1.png"
+  },
+  {
+    "type": "car",
+    "name": "Jeep Wrangler - Soft Top (Rubicon)",
+    "category_header": "Premium SUVs & Luxury Sedans &bull; Self-Drive",
+    "pill": "Automatic &bull; Diesel 4x4",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Duration</th>\n            <th>Rental Rate</th>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day)</td>\n            <td class=\"rate rate-gold\">₹ 35,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 35,000/-"
+    ],
+    "deposit": "₹ 1,50,000",
+    "image": "jeep_wrangler.png"
+  },
+  {
+    "type": "car",
+    "name": "Land Rover - Defender (Min. 3 Days)",
+    "category_header": "Premium SUVs & Luxury Sedans &bull; Self-Drive",
+    "pill": "Automatic &bull; Petrol",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Rental Package</th>\n            <th>Rate</th>\n          </tr>\n          <tr>\n            <td>24 Hours (1 Day with Chauffeur)</td>\n            <td class=\"rate\">₹ 65,000/-</td>\n          </tr>\n          <tr>\n            <td>72 Hours (3 Days Self Drive)</td>\n            <td class=\"rate rate-gold\">₹ 1,90,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 65,000/-",
+      "₹ 1,90,000/-"
+    ],
+    "deposit": "₹ 2,50,000",
+    "image": "defender.png"
+  },
+  {
+    "type": "car",
+    "name": "Mercedes-CLE 300 Cabriolet AMG",
+    "category_header": "Executive & Sports Cars &bull; Photoshoots, Weddings & Events",
+    "pill": "Automatic &bull; 2026 Model",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Package</th>\n            <th>With Chauffeur (Fuel Incl.)</th>\n            <th>Self-Drive (Min. 3 Days)</th>\n          </tr>\n          <tr>\n            <td>8 Hours / 80 KMs</td>\n            <td class=\"rate\">₹ 65,000/-</td>\n            <td rowspan=\"2\" class=\"rate rate-gold\">₹ 65,000/- / Day<br><span style=\"font-size:5.8pt; color:#A6ACB8;\">(Fuel Not Incl.)</span></td>\n          </tr>\n          <tr>\n            <td>12 Hours / 100 KMs</td>\n            <td class=\"rate\">₹ 70,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 65,000/-",
+      "₹ 70,000/-"
+    ],
+    "deposit": "₹ 0",
+    "image": "mercedes_cle300_amg.png"
+  },
+  {
+    "type": "car",
+    "name": "Mercedes-C300 Cabriolet",
+    "category_header": "Executive & Sports Cars &bull; Photoshoots, Weddings & Events",
+    "pill": "With Driver &bull; 2022 Model",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Package (G2G)</th>\n            <th>Rental Rate (Fuel & Driver Incl.)</th>\n          </tr>\n          <tr>\n            <td>8 Hours / 80 KMs</td>\n            <td class=\"rate\">₹ 22,000/-</td>\n          </tr>\n          <tr>\n            <td>12 Hours / 100 KMs</td>\n            <td class=\"rate rate-gold\">₹ 25,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 22,000/-",
+      "₹ 25,000/-"
+    ],
+    "deposit": "",
+    "image": "mercedes_c300_cabrio_events.png"
+  },
+  {
+    "type": "car",
+    "name": "Audi A3 Cabriolet",
+    "category_header": "Executive & Sports Cars &bull; Photoshoots, Weddings & Events",
+    "pill": "With Driver &bull; 2022 Model",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Package (G2G)</th>\n            <th>Rental Rate (Fuel & Driver Incl.)</th>\n          </tr>\n          <tr>\n            <td>8 Hours / 80 KMs</td>\n            <td class=\"rate\">₹ 18,000/-</td>\n          </tr>\n          <tr>\n            <td>12 Hours / 100 KMs</td>\n            <td class=\"rate rate-gold\">₹ 22,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 18,000/-",
+      "₹ 22,000/-"
+    ],
+    "deposit": "",
+    "image": "audi_a3_cabrio.png"
+  },
+  {
+    "type": "car",
+    "name": "GMC Hummer",
+    "category_header": "Executive & Sports Cars &bull; Photoshoots, Weddings & Events",
+    "pill": "With Driver &bull; 2016 Model",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Package (G2G)</th>\n            <th>Rental Rate (Fuel & Driver Incl.)</th>\n          </tr>\n          <tr>\n            <td>8 Hours / 80 KMs</td>\n            <td class=\"rate\">₹ 50,000/-</td>\n          </tr>\n          <tr>\n            <td>12 Hours / 100 KMs</td>\n            <td class=\"rate rate-gold\">₹ 60,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 50,000/-",
+      "₹ 60,000/-"
+    ],
+    "deposit": "",
+    "image": "gmc_hummer.png"
+  },
+  {
+    "type": "car",
+    "name": "BMW - Z4 Roadster",
+    "category_header": "Supercars & Ultra-Luxury &bull; Photoshoots, Weddings & Events",
+    "pill": "With Driver &bull; 2024 Model",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Package (G2G)</th>\n            <th>Rental Rate (Fuel & Driver Incl.)</th>\n          </tr>\n          <tr>\n            <td>8 Hours / 80 KMs</td>\n            <td class=\"rate\">₹ 1,11,000/-</td>\n          </tr>\n          <tr>\n            <td>12 Hours / 100 KMs</td>\n            <td class=\"rate rate-gold\">₹ 1,22,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 1,11,000/-",
+      "₹ 1,22,000/-"
+    ],
+    "deposit": "",
+    "image": "bmw_z4.png"
+  },
+  {
+    "type": "car",
+    "name": "Porsche Boxster",
+    "category_header": "Supercars & Ultra-Luxury &bull; Photoshoots, Weddings & Events",
+    "pill": "With Driver &bull; 2019 Model",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Package (G2G)</th>\n            <th>Rental Rate (Fuel & Driver Incl.)</th>\n          </tr>\n          <tr>\n            <td>8 Hours / 80 KMs</td>\n            <td class=\"rate\">₹ 1,00,000/-</td>\n          </tr>\n          <tr>\n            <td>12 Hours / 100 KMs</td>\n            <td class=\"rate rate-gold\">₹ 1,15,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 1,00,000/-",
+      "₹ 1,15,000/-"
+    ],
+    "deposit": "",
+    "image": "porsche_boxster.png"
+  },
+  {
+    "type": "car",
+    "name": "Lamborghini Huracán Spyder",
+    "category_header": "Supercars & Ultra-Luxury &bull; Photoshoots, Weddings & Events",
+    "pill": "With Driver &bull; 2023 Model",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Package (G2G)</th>\n            <th>Rental Rate (Fuel & Driver Incl.)</th>\n          </tr>\n          <tr>\n            <td>8 Hours / 80 KMs</td>\n            <td class=\"rate\">₹ 2,00,000/-</td>\n          </tr>\n          <tr>\n            <td>12 Hours / 100 KMs</td>\n            <td class=\"rate rate-gold\">₹ 2,20,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 2,00,000/-",
+      "₹ 2,20,000/-"
+    ],
+    "deposit": "",
+    "image": "lamborghini_huracan.png"
+  },
+  {
+    "type": "car",
+    "name": "Rolls-Royce Ghost",
+    "category_header": "Supercars & Ultra-Luxury &bull; Photoshoots, Weddings & Events",
+    "pill": "With Driver &bull; 2016 Model",
+    "specs": [],
+    "table_raw": "<tr>\n            <th>Package (G2G)</th>\n            <th>Rental Rate (Fuel & Driver Incl.)</th>\n          </tr>\n          <tr>\n            <td>8 Hours / 80 KMs</td>\n            <td class=\"rate\">₹ 2,00,000/-</td>\n          </tr>\n          <tr>\n            <td>12 Hours / 100 KMs</td>\n            <td class=\"rate rate-gold\">₹ 2,20,000/-</td>\n          </tr>",
+    "rates": [
+      "₹ 2,00,000/-",
+      "₹ 2,20,000/-"
+    ],
+    "deposit": "",
+    "image": "rolls_royce_ghost.png"
+  }
+]
