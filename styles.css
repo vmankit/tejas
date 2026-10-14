@@ -150,6 +150,34 @@ body {
   box-shadow: 0 6px 20px rgba(212, 175, 55, 0.4);
 }
 
+.btn-catalog-nav {
+  background: rgba(212, 175, 55, 0.08);
+  border: 1px solid rgba(212, 175, 55, 0.35);
+  color: var(--gold-light);
+  padding: 0.5rem 1.05rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  border-radius: var(--radius-full);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+.btn-catalog-nav i {
+  color: #EF4444;
+  font-size: 0.95rem;
+}
+
+.btn-catalog-nav:hover {
+  background: rgba(212, 175, 55, 0.2);
+  border-color: var(--gold-primary);
+  color: #FFF;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(212, 175, 55, 0.25);
+}
+
 .btn-whatsapp-nav {
   background: linear-gradient(135deg, rgba(212, 175, 55, 0.22) 0%, rgba(212, 175, 55, 0.08) 100%);
   border: 1.5px solid var(--gold-primary);
@@ -1765,19 +1793,16 @@ body {
   background: rgba(0, 0, 0, 0.85);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  display: flex;
+  display: none;
   align-items: center;
   justify-content: center;
   z-index: 2000;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.3s ease;
   padding: 1.5rem;
+  animation: fadeIn 0.25s ease forwards;
 }
 
 .modal-overlay.open {
-  opacity: 1;
-  pointer-events: auto;
+  display: flex;
 }
 
 .modal-card {
@@ -2039,3 +2064,18 @@ body {
     max-height: 92vh;
   }
 }
+
+@media (max-width: 480px) {
+  .btn-catalog-nav span {
+    display: none;
+  }
+  .btn-catalog-nav {
+    padding: 0.45rem 0.75rem;
+    font-size: 0.9rem;
+  }
+  .btn-whatsapp-nav {
+    padding: 0.45rem 0.9rem;
+    font-size: 0.8rem;
+  }
+}
+

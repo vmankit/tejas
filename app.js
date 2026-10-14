@@ -1452,12 +1452,18 @@ let currentSort = 'featured';
 /**
  * INITIALIZATION
  */
-document.addEventListener('DOMContentLoaded', () => {
+function init() {
   populateCalculatorOptions();
   renderFleet();
   setupEventListeners();
   updateCalculator();
-});
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', init);
+} else {
+  init();
+}
 
 /**
  * FORMAT CURRENCY
@@ -1821,12 +1827,12 @@ window.openVehicleModal = function(id) {
   document.body.style.overflow = 'hidden';
 };
 
-function closeVehicleModal() {
+window.closeVehicleModal = function closeVehicleModal() {
   if (!vehicleModal) return;
   vehicleModal.classList.remove('open');
   vehicleModal.classList.remove('active');
   document.body.style.overflow = '';
-}
+};
 
 
 /**

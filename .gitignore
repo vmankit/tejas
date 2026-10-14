@@ -17,7 +17,12 @@ test_pw.pdf
 
 # Large raw backup PDFs (>40MB)
 REVVRIZZ CAT__8-10-26.pdf
-REVVRIZZ_CATALOG_REDESIGNED.pdf
+REVVRIZZ CAT.pdf
+REVVRIZZ_CATALOG_HD.pdf
+REVVRIZZ_CATALOG_COMPRESSED.pdf
+*.tmp
+pdf*.jpg
+audit_assets.py
 
 # OS & Editor
 .DS_Store

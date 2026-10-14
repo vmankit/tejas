@@ -32,7 +32,7 @@
   <!-- NAVIGATION -->
   <header class="navbar" id="navbar">
     <div class="container nav-container">
-      <a href="#" class="brand-logo">
+      <a href="#hero" class="brand-logo" aria-label="RevvRizz Luxe Home">
         <img src="assets/logo_clean_alpha.png" alt="RevvRizz Luxe Logo" class="nav-logo-img">
       </a>
 
@@ -47,6 +47,9 @@
       </nav>
 
       <div class="nav-actions">
+        <a href="REVVRIZZ_CATALOG_REDESIGNED.pdf" target="_blank" download="RevvRizz_Luxe_Catalog.pdf" class="btn btn-catalog-nav" title="Download Official PDF Fleet Catalog">
+          <i class="fa-solid fa-file-pdf"></i> <span>Catalog</span>
+        </a>
         <a href="https://wa.me/919289678449?text=Hi%20RevvRizz%20Luxe,%20I%20would%20like%20to%20book%20a%20car" target="_blank" class="btn btn-whatsapp-nav">
           <i class="fa-brands fa-whatsapp"></i> Book Now
         </a>
@@ -184,6 +187,11 @@
         <div class="section-tag gold-gradient-text">EXPLORE THE FLEET</div>
         <h2 class="section-title">Handpicked Machines for Every Journey</h2>
         <p class="section-desc">From daily city cruisers to rugged 4x4 Thar and V10 Lamborghini, browse our entire collection with 100% transparent pricing.</p>
+        <div class="catalog-download-pill-wrap" style="margin-top: 1rem;">
+          <a href="REVVRIZZ_CATALOG_REDESIGNED.pdf" target="_blank" download="RevvRizz_Luxe_Catalog.pdf" class="btn btn-outline-gold" style="padding: 0.55rem 1.3rem; font-size: 0.85rem; border-radius: var(--radius-full);">
+            <i class="fa-solid fa-file-pdf gold-icon"></i> Download Complete Fleet Rate-Card (PDF)
+          </a>
+        </div>
       </div>
 
       <!-- FILTER CONTROLS -->
@@ -676,7 +684,7 @@
             <li><a href="#calculator">Price Calculator</a></li>
             <li><a href="#how-it-works">Rental Policy</a></li>
             <li><a href="#faq">Frequently Asked Questions</a></li>
-            <li><a href="REVVRIZZ_CATALOG_REDESIGNED.pdf" target="_blank"><i class="fa-solid fa-file-pdf gold-icon"></i> Download PDF Catalog</a></li>
+            <li><a href="REVVRIZZ_CATALOG_REDESIGNED.pdf" target="_blank" download="RevvRizz_Luxe_Catalog.pdf"><i class="fa-solid fa-file-pdf gold-icon"></i> Download PDF Catalog</a></li>
           </ul>
         </div>
 
@@ -698,9 +706,9 @@
       <div class="footer-bottom">
         <p>&copy; 2026 RevvRizz Luxe Pvt Ltd. All Rights Reserved. Crafted for Ultimate Luxury.</p>
         <div class="footer-bottom-links">
-          <a href="#">Privacy Policy</a> &bull;
-          <a href="#">Terms & Conditions</a> &bull;
-          <a href="#">Security Deposit Policy</a>
+          <a href="#how-it-works">Privacy Policy</a> &bull;
+          <a href="#how-it-works">Terms & Conditions</a> &bull;
+          <a href="#how-it-works">Security Deposit Policy</a>
         </div>
       </div>
     </div>
@@ -709,7 +717,7 @@
   <!-- VEHICLE DETAILS MODAL -->
   <div class="modal-overlay" id="vehicleModal">
     <div class="modal-card">
-      <button class="modal-close-btn" id="modalCloseBtn" aria-label="Close Modal">&times;</button>
+      <button class="modal-close-btn" id="modalCloseBtn" aria-label="Close Modal" onclick="closeVehicleModal()">&times;</button>
       <div class="modal-body" id="modalBody">
         <!-- Rendered via JS -->
       </div>
